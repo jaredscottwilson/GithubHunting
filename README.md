@@ -12,3 +12,5 @@ Three switches are required:
 Example:
 
 python3 githunt.py -e test@test.com -p ThisIsABadPassword123 -l search_these_keywords.txt
+
+NOTE: Depending on the special characters in your password/email, you may need to encase with single quotes.
