@@ -1,4 +1,4 @@
-# github_hunting
+# github hunting
 A commandline python tool to search and parse external github for keywords that are provided in a newline seperated list
 
 Three switches are required:
